@@ -4,6 +4,8 @@ This project is made by Arun Kumar and B N Rishi.
 This project is basically a proof on concept project of the Blockchain technology. 
 It is implemented in Java and GUI is made in javaFX.
 
+A complete video playback of the execution of the applicaion is available in the repository.
+
 This project includes the following features: 
 1. Control over difficulty factor for generating the blocks.
 2. Control over number of transactions.
