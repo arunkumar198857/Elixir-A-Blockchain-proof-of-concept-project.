@@ -14,3 +14,39 @@ This project includes the following features:
 5. Dynamic updates on valid/invalid transaction occurance.
 6. Display the generated Blockchain.
 7. Display the invalid transactions.
+
+
+## Screenshots ##
+
+### 1. Initial Screen ###
+![](Screenshots/InitialScreen.jpg)
+
+
+
+### 2. Main Window ###
+![](Screenshots/HomeScreen.jpg)
+
+
+
+### 3. Execution Start ###
+![](Screenshots/BeginningOfExecution.jpg)
+
+
+
+### 4. Execution End ###
+![](Screenshots/EndOfExecution.jpg)
+
+
+
+### 5. Blockchain Summary - 1 ###
+![](Screenshots/BlockchainSummary-1.jpg)
+
+
+
+### 6. Blockchain Summary - 2 ###
+![](Screenshots/BlockchainSummary-2.jpg)
+
+
+
+### 7. Invalid Transactions Summary ###
+![](Screenshots/InvalidTransactionsSummary.jpg)
